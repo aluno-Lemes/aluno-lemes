@@ -32,7 +32,7 @@ Meu nome é Lucas, tenho 21 anos e sou apaixonado por tecnologia
 
 ## Meus Contatos:
 <div>
-<a href = "mailto:lucas.lemes2079@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="35" height="35"></a>
-<a href="https://www.linkedin.com/in/lemes-" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="35" height="35" ></a>   
+<a href = "mailto:lucas.lemes2079@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="65" height="65"></a>
+<a href="https://www.linkedin.com/in/lemes-" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="65" height="65" ></a>   
 </div>
 
