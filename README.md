@@ -2,7 +2,7 @@
 ## Meu nome é Lucas, tenho 21 anos e sou apaixonado por tecnologia
 
 <div>
-  <a href="https://tenor.com/search/technology-gifs" target="_blank"><img src="https://tenor.com/view/technology-love-aaron-ruell-gif-12139263" width="280" height="auto" /></a>
+  <a href="https://tenor.com/view/technology-love-aaron-ruell-gif-12139263" target="_blank"><img src="https://tenor.com/search/technology-gifs" width="280" height="auto" /></a>
 </div>
 
 ☕ Aprendendo algo novo todo dia ➕1️⃣
