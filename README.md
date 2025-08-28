@@ -1,9 +1,8 @@
-# 👋 Olá! Bem-vindo ao meu perfil do GitHub
+#"We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology." -- Carl Sagan
+
+
 
 Meu nome é Lucas, tenho 21 anos e sou apaixonado por tecnologia
-
-"We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology." -- Carl Sagan
-
 
 ☕ Aprendendo algo novo todo dia ➕1️⃣
 
