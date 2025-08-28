@@ -1,12 +1,9 @@
 # bem vindo 👋
 ## Meu nome é Lucas, tenho 21 anos e sou apaixonado por tecnologia
 
-<div class="tenor-gif-embed" data-postid="5150148" data-share-method="host" data-aspect-ratio="1" data-width="100%">
-<a href="https://tenor.com/view/kip-technology-love-napoleon-gif-5150148"
-Kip Technology GIF</a>
-<a href="https://tenor.com/search/kip-gifs">Kip GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
-</script>
- 
+<a href="https://tenor.com/view/kip-technology-love-napoleon-gif-5150148">
+
+
 ☕ Aprendendo algo novo todo dia ➕1️⃣
 
 🧠 Criando conhecimento em diversas linguagens de programação 💻🖱️
