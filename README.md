@@ -1,10 +1,11 @@
 # 👋 Olá! Bem-vindo ao meu perfil do GitHub
 
-### Meu nome é Lucas, tenho 21 anos e pretendo migrar para a área de programação. Apaixonado por tecnologia, no futuro quero aprender mais sobre Eletronica e HardWare.
+### Meu nome é Lucas, tenho 21 anos e pretendo migrar para a área de programação. 
+-Apaixonado por tecnologia, no futuro quero aprender mais sobre Eletronica e HardWare.
 
-☕ Aprendendo algo novo todo dia ➕1️⃣
-🧠 Criando conhecimento em diversas linguagens de programação 💻🖱️
-📚 Ainda sem projetos simples, mas o importante é estudar 🤓
+-☕ Aprendendo algo novo todo dia ➕1️⃣
+-🧠 Criando conhecimento em diversas linguagens de programação 💻🖱️
+-📚 Ainda sem projetos simples, mas o importante é estudar 🤓
 
 ## Ferramentas que sei o basico 📝
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55"/>
