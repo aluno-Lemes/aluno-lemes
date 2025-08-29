@@ -3,14 +3,14 @@
   <br>Bem Vindo! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕚𝕤 𝕞𝕪 𝕡𝕒𝕤𝕤𝕚𝕠𝕟 :computer:<br>
   <br>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUzbXgydmR1M2V1YzA5MWRqbnV6NW1udTN0MXFyMmswMXlsNGRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUzbXgydmR1M2V1YzA5MWRqbnV6NW1udTN0MXFyMmswMXlsNGRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif" alt="Coder GIF" width="700">
  </abc>
 </h2> 
 
 <h2 align="left">👨🏻‍💻 Sobre mim: </h2>
 
 - :computer: Estudo programação a pouco mais de 1 ano 📆
-- :hourglass_flowing_sand: Atualmente trabalho com automação e manutenção 🔌
+- :hourglass_flowing_sand: Atualmente trabalho com automação e manutenção elétrica 🔌
 - :rocket: Sempre em busca de Tecnologias e conhecimento 🧠
 - :zap: Aos poucos vou encher isso de projetos e códigos ✍️
 
