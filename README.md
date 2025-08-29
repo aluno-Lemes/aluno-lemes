@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Bem Vindo! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> Meu nome é Lucas e sou apaixonado por Tecnologia :computer:<br>
+  <br> 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕚𝕤 𝕞𝕪 𝕡𝕒𝕤𝕤𝕚𝕠𝕟 :computer:<br>
   <br>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUzbXgydmR1M2V1YzA5MWRqbnV6NW1udTN0MXFyMmswMXlsNGRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif" alt="Coder GIF" width="500">
  </abc>
