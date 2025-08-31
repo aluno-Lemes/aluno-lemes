@@ -10,9 +10,9 @@
 <h2 align="left">👨🏻‍💻 Sobre mim: </h2>
 
 - :computer: Estudo programação a pouco mais de 1 ano 📆
-- :hourglass_flowing_sand: Atualmente trabalho com automação e manutenção elétrica 🔌
+-  :zap: Atualmente trabalho com automação e manutenção elétrica 🔌
 - :rocket: Sempre em busca de Tecnologias e conhecimento 🧠
-- :zap: Aos poucos vou encher isso de projetos e códigos ✍️
+- :hourglass_flowing_sand: Aos poucos vou encher isso de projetos e códigos ✍️
 
 
 <h2 align="left">:hammer_and_wrench: Ferramentas que estou aprendendo: 👾</h2>
